@@ -1,6 +1,6 @@
 # python-vietlott-data
 # install requirements
-python -m pip install -re requirements.txt
+python -m pip install -r requirements.txt
 
 # get keno
 python get_keno.py
